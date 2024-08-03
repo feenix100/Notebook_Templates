@@ -1,22 +1,12 @@
-Sure! Here is the content rewritten for a README file explaining the Jupyter notebook templates for college algebra:
-
----
 
 # College Algebra Jupyter Notebook Templates
 
 Welcome to the College Algebra Jupyter Notebook Templates! This repository provides a structured set of Jupyter notebook templates designed to help you learn and solve problems in college algebra. Each template includes sections with LaTeX examples for mathematical notation and practical problem-solving exercises.
+I use VS Code to edit and view notebooks, however there are many options.
 
 ## Getting Started
 
 To use these templates, follow the steps below:
-
-### Prerequisites
-
-Ensure you have the following installed on your system:
-
-- Python 3.6 or higher
-- Jupyter Notebook
-- Matplotlib (for graphing)
 
 ### Setting Up a Virtual Environment
 
@@ -24,6 +14,12 @@ Ensure you have the following installed on your system:
    ```sh
    python -m venv myenv
    ```
+
+### Prerequisites
+
+Ensure you have the following installed on your system:
+
+- Python 3.6 or higher
 
 2. **Activate the Virtual Environment:**
    - On Windows:
@@ -50,6 +46,12 @@ Ensure you have the following installed on your system:
    ```sh
    jupyter notebook
    ```
+
+6. **Or, use VS Code.**
+   ```sh
+   Install extensions for python and jupyter notebooks.
+   ```
+   
 
 ## Template Structure
 
@@ -213,19 +215,6 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-
-### 10. Additional Topics
-
-Include any additional topics that are relevant to college algebra.
-
-**LaTeX Examples:**
-- Placeholder for LaTeX examples related to additional topics.
-
-**Example: Additional Topic**
-Include an example problem and solution for any additional topic here.
-
-**Solution:**
-Provide the solution for the example problem here.
 
 ## License
 
